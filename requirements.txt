@@ -19,6 +19,7 @@ defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
 gast==0.3.3
+generic-utils
 gunicorn
 google-auth==1.23.0
 google-auth-oauthlib==0.4.2
