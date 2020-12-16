@@ -19,7 +19,6 @@ defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
 gast==0.3.3
-generic-utils
 gunicorn
 google-auth==1.23.0
 google-auth-oauthlib==0.4.2
@@ -87,7 +86,7 @@ Send2Trash==1.5.0
 six==1.15.0
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
-tensorflow-cpu==2.2.1
+tensorflow-cpu==2.3.0
 tensorflow-estimator==2.3.0
 termcolor==1.1.0
 terminado==0.9.1
